@@ -272,3 +272,4 @@ export function createInitialIncident(scenarioId: string = 'checkout-leak'): Inc
     updatedAt: now
   };
 }
+

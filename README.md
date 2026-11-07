@@ -17,6 +17,7 @@
 
 - **Live Deployed App (Vercel):** [https://switch-war-room.vercel.app](https://switch-war-room.vercel.app)
 - **GitHub Repository:** [https://github.com/vidishagupta/switch-war-room](https://github.com/vidishagupta/switch-war-room)
+- **Demo Video (MP4, 2m 12s):** [`SwitchWarRoom_Demo.mp4`](SwitchWarRoom_Demo.mp4)
 
 ---
 
