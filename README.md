@@ -5,10 +5,18 @@
 > Built for the **Flip the Switch Hackathon** hosted by **WeMakeDevs** & **DevTools Academy**.
 
 [![Hackathon](https://img.shields.io/badge/Hackathon-Flip_the_Switch-6366f1.svg)](https://www.wemakedevs.org/hackathons/switch)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-switch--war--room.vercel.app-10b981.svg)](https://switch-war-room.vercel.app)
 [![Powered by](https://img.shields.io/badge/Powered%20by-Switch%20AI-059669.svg)](https://github.com/sandbox-quantum/switch)
 [![Governance](https://img.shields.io/badge/Governance-SandboxAQ_Switch_Trust-d97706.svg)](https://github.com/sandbox-quantum/switch)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Tests](https://img.shields.io/badge/Tests-100%25_Passing-emerald.svg)](server/test)
+
+---
+
+## 🌐 Live Links
+
+- **Live Deployed App (Vercel):** [https://switch-war-room.vercel.app](https://switch-war-room.vercel.app)
+- **GitHub Repository:** [https://github.com/vidishagupta/switch-war-room](https://github.com/vidishagupta/switch-war-room)
 
 ---
 
