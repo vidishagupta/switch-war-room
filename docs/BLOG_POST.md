@@ -1,6 +1,19 @@
-# Freeing AI from the Terminal: How We Built SwitchWarRoom to Turn Coding Agents into SRE Teammates in Slack
+---
+title: "Freeing AI from the Terminal: How We Built SwitchWarRoom to Turn Coding Agents into SRE Teammates in Slack"
+published: true
+tags: ai, devops, hackathon, opensource
+canonical_url: https://dev.to/vidisha_gupta_/freeing-ai-from-the-terminal-how-we-built-switchwarroom-to-turn-coding-agents-into-sre-teammates-2aom
+---
 
-*Submitted for the Flip the Switch Hackathon by WeMakeDevs & DevTools Academy (Powered by Switch AI)*
+*Submitted for the **Flip the Switch Hackathon** hosted by **WeMakeDevs** & **DevTools Academy** (Powered by **Switch AI** & **SandboxAQ**).*
+
+---
+
+### 🎥 Watch the 2-Minute Demo Video
+{% youtube _1hyjWhKm3g %}
+
+- **Live Deployed App (Vercel):** [https://switch-war-room.vercel.app](https://switch-war-room.vercel.app)
+- **GitHub Repository:** [https://github.com/vidishagupta/switch-war-room](https://github.com/vidishagupta/switch-war-room)
 
 ---
 
@@ -76,7 +89,7 @@ Switch abstracts the underlying chat protocols. When our multi-agent orchestrato
 We implemented a dedicated **Switch Trust Model Context Protocol (MCP)** server over stdio. Before any agent executes bash commands or writes code, the operation is checked against Switch Trust guardrails:
 - Destructive commands like `DROP TABLE` or `rm -rf` are immediately blocked.
 - Sensitive credentials (AWS keys, Stripe secrets) are deterministically redacted before posting to chat.
-- Token budgets and dollar costs are monitored in real time (e.g., $0.0038 total AI cost for a full P1 resolution).
+- Token budgets and dollar costs are monitored in real time (e.g., $0.0142 total AI cost for a full P1 resolution).
 
 ---
 
@@ -102,11 +115,11 @@ In our benchmark tests comparing traditional incident response vs. SwitchWarRoom
 
 | Metric | Traditional Human Triage | SwitchWarRoom + Switch |
 | :--- | :--- | :--- |
-| **Mean Time to Detect (MTTD)** | 8.5 minutes | **1.4 seconds** |
-| **Reproduction Test Synthesis** | 22 minutes | **3.2 seconds** |
+| **Mean Time to Detect (MTTD)** | ~8.5 minutes | **1.4 seconds** |
+| **Reproduction Test Synthesis** | ~22 minutes | **3.2 seconds** |
 | **Human Coding Required** | ~35 lines under panic | **0 lines (1-click sign-off)** |
 | **Downtime Cost Avoided** | N/A (Prolonged outage) | **$18,400+ saved** |
-| **Total AI Cost** | N/A | **$0.0038** |
+| **Total AI Cost** | N/A | **$0.0142** |
 
 ---
 
@@ -121,7 +134,10 @@ In our benchmark tests comparing traditional incident response vs. SwitchWarRoom
 ## 7. Try SwitchWarRoom
 
 Explore the project, run the interactive simulator, and inspect the code:
-- **GitHub Repository:** [switch-war-room](https://github.com/sandbox-quantum/switch)
-- **Built for:** Flip the Switch Hackathon by WeMakeDevs & DevTools Academy
-- **Powered by:** Switch AI & SandboxAQ
+- **Live Deployed App (Vercel):** [switch-war-room.vercel.app](https://switch-war-room.vercel.app)
+- **GitHub Repository:** [vidishagupta/switch-war-room](https://github.com/vidishagupta/switch-war-room)
+- **YouTube Demo Video:** [Watch on YouTube](https://youtu.be/_1hyjWhKm3g)
 
+{% github vidishagupta/switch-war-room %}
+
+*Built with passion for the **Flip the Switch Hackathon** by **WeMakeDevs** & **DevTools Academy**, powered by **Switch AI**.*

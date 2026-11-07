@@ -18,6 +18,7 @@
 
 - **Live Deployed App (Vercel):** [https://switch-war-room.vercel.app](https://switch-war-room.vercel.app)
 - **YouTube Demo Video:** [https://youtu.be/_1hyjWhKm3g](https://youtu.be/_1hyjWhKm3g)
+- **Technical Blog Post (Dev.to):** [https://dev.to/vidisha_gupta_/freeing-ai-from-the-terminal-how-we-built-switchwarroom-to-turn-coding-agents-into-sre-teammates-2aom](https://dev.to/vidisha_gupta_/freeing-ai-from-the-terminal-how-we-built-switchwarroom-to-turn-coding-agents-into-sre-teammates-2aom)
 - **GitHub Repository:** [https://github.com/vidishagupta/switch-war-room](https://github.com/vidishagupta/switch-war-room)
 
 [![SwitchWarRoom Demo Video](https://img.youtube.com/vi/_1hyjWhKm3g/maxresdefault.jpg)](https://youtu.be/_1hyjWhKm3g)
@@ -28,7 +29,7 @@
 
 - **Target Track:** **Track 1: Best Business Workflow ($2,000)**
 - **Bonus Tracks:**
-  - 📝 **Best Technical Blog Post (AirPods 5):** Read our comprehensive write-up in [`docs/BLOG_POST.md`](docs/BLOG_POST.md)
+  - 📝 **Best Technical Blog Post (AirPods 5):** Read our official article on Dev.to: [Freeing AI from the Terminal: How We Built SwitchWarRoom](https://dev.to/vidisha_gupta_/freeing-ai-from-the-terminal-how-we-built-switchwarroom-to-turn-coding-agents-into-sre-teammates-2aom)
   - 🎥 **Demo Video (YouTube):** [Watch the 2-minute walkthrough on YouTube](https://youtu.be/_1hyjWhKm3g)
   - 🛡️ **Switch Trust MCP:** Standalone Model Context Protocol server in [`mcp-switch-trust/`](mcp-switch-trust/)
 
