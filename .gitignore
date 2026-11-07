@@ -5,5 +5,5 @@ build/
 *.log
 .DS_Store
 Thumbs.db
-video_generator/scenes/
-video_generator/concat_list.txt
+.vercel/
+video_generator/
