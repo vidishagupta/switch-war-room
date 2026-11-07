@@ -210,3 +210,4 @@ npm run dev
 ## 💡 Acknowledgements
 
 Huge thanks to **WeMakeDevs**, **DevTools Academy**, and the **Switch AI** team at **SandboxAQ** for organizing the *Flip the Switch Hackathon* and pioneering the future of collaborative AI teammates.
+

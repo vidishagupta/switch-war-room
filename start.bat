@@ -9,3 +9,4 @@ call npm install
 echo.
 echo Starting backend and frontend simultaneously...
 call npm run dev
+

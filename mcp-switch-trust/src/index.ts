@@ -184,3 +184,4 @@ rl.on('line', (line) => {
     // Silent fail on invalid lines
   }
 });
+

@@ -69,3 +69,4 @@ Built with React, Vite, Tailwind CSS, and Lucide Icons:
 - Dual-mode chat simulator & Slack Block Kit preview.
 - GitHub-style before/after diff inspector.
 - Real-time Switch Trust safety gauges and token spend tracker.
+

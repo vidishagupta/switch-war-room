@@ -145,3 +145,4 @@ export const AgentCards: React.FC<AgentCardsProps> = ({ incident }) => {
     </div>
   );
 };
+

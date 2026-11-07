@@ -124,3 +124,4 @@ Explore the project, run the interactive simulator, and inspect the code:
 - **GitHub Repository:** [switch-war-room](https://github.com/sandbox-quantum/switch)
 - **Built for:** Flip the Switch Hackathon by WeMakeDevs & DevTools Academy
 - **Powered by:** Switch AI & SandboxAQ
+

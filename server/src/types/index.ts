@@ -103,3 +103,4 @@ export interface Incident {
   updatedAt: string;
   resolvedAt?: string;
 }
+

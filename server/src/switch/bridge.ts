@@ -134,3 +134,4 @@ export class SwitchBridge {
 }
 
 export const switchBridge = new SwitchBridge();
+

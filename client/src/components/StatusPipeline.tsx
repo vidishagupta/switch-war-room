@@ -127,3 +127,4 @@ export const StatusPipeline: React.FC<StatusPipelineProps> = ({ incident, onOpen
     </div>
   );
 };
+
