@@ -7,3 +7,4 @@ build/
 Thumbs.db
 .vercel/
 video_generator/
+*.mp4

@@ -29,7 +29,7 @@
 - **Target Track:** **Track 1: Best Business Workflow ($2,000)**
 - **Bonus Tracks:**
   - 📝 **Best Technical Blog Post (AirPods 5):** Read our comprehensive write-up in [`docs/BLOG_POST.md`](docs/BLOG_POST.md)
-  - 🎥 **Video Demo Script:** Ready-to-record walkthrough in [`docs/DEMO_SCRIPT.md`](docs/DEMO_SCRIPT.md)
+  - 🎥 **Demo Video (YouTube):** [Watch the 2-minute walkthrough on YouTube](https://youtu.be/_1hyjWhKm3g)
   - 🛡️ **Switch Trust MCP:** Standalone Model Context Protocol server in [`mcp-switch-trust/`](mcp-switch-trust/)
 
 ---
@@ -209,7 +209,6 @@ npm run dev
 │
 ├── docs/                       # Hackathon Deliverables
 │   ├── BLOG_POST.md            # Technical blog post for "Best Blog" prize
-│   ├── DEMO_SCRIPT.md          # 3-minute video presentation script
 │   └── ARCHITECTURE.md         # In-depth architectural blueprint
 │
 ├── start.bat                   # 1-click launch script for Windows
