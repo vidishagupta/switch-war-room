@@ -1,0 +1,21 @@
+{
+  "name": "mcp-switch-trust",
+  "version": "1.0.0",
+  "description": "Switch Trust Guardrail MCP Server for AI Coding Agents",
+  "main": "dist/index.js",
+  "type": "module",
+  "bin": {
+    "switch-trust-mcp": "dist/index.js"
+  },
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/index.js"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.0.4"
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.2",
+    "typescript": "^5.7.2"
+  }
+}

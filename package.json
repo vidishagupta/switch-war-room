@@ -1,0 +1,32 @@
+{
+  "name": "switch-war-room",
+  "version": "1.0.0",
+  "description": "SwitchWarRoom: Autonomous Multi-Agent Incident Response & SRE Swarm for Slack and Discord powered by Switch",
+  "private": true,
+  "scripts": {
+    "dev": "concurrently \"npm run dev --workspace=server\" \"npm run dev --workspace=client\"",
+    "start": "concurrently \"npm run start --workspace=server\" \"npm run start --workspace=client\"",
+    "build": "npm run build --workspace=server && npm run build --workspace=client",
+    "test": "npm run test --workspace=server"
+  },
+  "workspaces": [
+    "server",
+    "client",
+    "mcp-switch-trust"
+  ],
+  "devDependencies": {
+    "concurrently": "^9.1.2"
+  },
+  "keywords": [
+    "switch",
+    "ai-agents",
+    "incident-response",
+    "slack",
+    "discord",
+    "wemakedevs",
+    "hackathon",
+    "switch-trust"
+  ],
+  "author": "SwitchWarRoom Team",
+  "license": "MIT"
+}
