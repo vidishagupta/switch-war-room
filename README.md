@@ -6,6 +6,7 @@
 
 [![Hackathon](https://img.shields.io/badge/Hackathon-Flip_the_Switch-6366f1.svg)](https://www.wemakedevs.org/hackathons/switch)
 [![Live Demo](https://img.shields.io/badge/Live_Demo-switch--war--room.vercel.app-10b981.svg)](https://switch-war-room.vercel.app)
+[![YouTube Video](https://img.shields.io/badge/YouTube-Watch_Demo_Video-FF0000.svg?logo=youtube&logoColor=white)](https://youtu.be/_1hyjWhKm3g)
 [![Powered by](https://img.shields.io/badge/Powered%20by-Switch%20AI-059669.svg)](https://github.com/sandbox-quantum/switch)
 [![Governance](https://img.shields.io/badge/Governance-SandboxAQ_Switch_Trust-d97706.svg)](https://github.com/sandbox-quantum/switch)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
@@ -16,8 +17,10 @@
 ## 🌐 Live Links
 
 - **Live Deployed App (Vercel):** [https://switch-war-room.vercel.app](https://switch-war-room.vercel.app)
+- **YouTube Demo Video:** [https://youtu.be/_1hyjWhKm3g](https://youtu.be/_1hyjWhKm3g)
 - **GitHub Repository:** [https://github.com/vidishagupta/switch-war-room](https://github.com/vidishagupta/switch-war-room)
-- **Demo Video (MP4, 2m 12s):** [`SwitchWarRoom_Demo.mp4`](SwitchWarRoom_Demo.mp4)
+
+[![SwitchWarRoom Demo Video](https://img.youtube.com/vi/_1hyjWhKm3g/maxresdefault.jpg)](https://youtu.be/_1hyjWhKm3g)
 
 ---
 

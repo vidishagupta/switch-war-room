@@ -3,6 +3,8 @@
 **Target Track:** Flip the Switch Hackathon — Best Business Workflow  
 **Host:** WeMakeDevs & DevTools Academy (Powered by Switch)  
 **Presenter:** SwitchWarRoom Team  
+**Live Demo:** [https://switch-war-room.vercel.app](https://switch-war-room.vercel.app)  
+**YouTube Video:** [https://youtu.be/_1hyjWhKm3g](https://youtu.be/_1hyjWhKm3g)  
 
 ---
 
